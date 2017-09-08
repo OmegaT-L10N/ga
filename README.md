@@ -1,1 +1,1 @@
-# ga
+# Irish OmegaT Localisation
